@@ -1,0 +1,17 @@
+name: PixelgamesServerteam
+main: Author\PixelgamesServerteam\PixelgamesServerteam
+version: 1.32#
+api: 3.0.0-ALPHA12
+author: iStrafeNubzHDyt
+
+commands:
+    serverteam:
+        description: "Hauptbefehl für das Serverteam-Plugin"
+        usage: "/serverteam <list|info|help>"
+        permission: pgserverteam.cmd
+        
+permissions:
+    pgserverteam.cmd:
+        description: "/serverteam"
+        default: true
+        
