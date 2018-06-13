@@ -29,8 +29,8 @@ class PixelgamesServerteam extends PluginBase {
             if($args[0] == "list") {
                 $sender->sendMessage("§e-------§1Das Serverteam§e-------");
                 $sender->sendMessage("§aOwner: iStrafeNubzHDyt");
-                $sender->sendMessage("§4Admin: CuzImPERCY, Schneekordel750");
-                $sender->sendMessage("§dDeveloper: M4nt0s, HonorGamerHD");
+                $sender->sendMessage("§4Admin: Schneekordel750");
+                $sender->sendMessage("§dDeveloper: HonorGamerHD");
                 $sender->sendMessage("§6Moderator: itsDkiller, PremixMCPE");
                 $sender->sendMessage("§6Chef§c-§bBuilder: EinsDummeNuss");
                 $sender->sendMessage("§bBuilder: SalmonAttic4382, darksideofforc");
@@ -41,7 +41,7 @@ class PixelgamesServerteam extends PluginBase {
                 $sender->sendMessage("§e-------------------------------------");
                 $sender->sendMessage("§ePlugin von iStrafeNubzHDyt");
                 $sender->sendMessage("§bName: PixelgamesServerteam");
-                $sender->sendMessage("§bVersion: 1.32#");
+                $sender->sendMessage("§bVersion: 1.34#");
                 $sender->sendMessage("§bFür PocketMine-API: 3.0.0-ALPHA12");
                 $sender->sendMessage("§6Permissions: pgserverteam.cmd");
                 $sender->sendMessage("§eSpeziell für PIXELGAMES entwickelt");

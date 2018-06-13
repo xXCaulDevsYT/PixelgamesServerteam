@@ -1,17 +1,17 @@
 Changelog PixelgamesServerteam:
 
 ...
-v0.6: Rang Helfer hinzugefügt +Keit80, Das statt Der Plugin in Help, Changelog hinzugefügt
-v0.7: Fehlerbehebung bei der Formatierung, Farbenänderungen der Messages
+v0.6: Rang Helfer hinzugefÃ¼gt +Keit80, Das statt Der Plugin in Help, Changelog hinzugefÃ¼gt
+v0.7: Fehlerbehebung bei der Formatierung, FarbenÃ¤nderungen der Messages
 v1.0-beta: /serverteam list statt nur /serverteam, Update von plugin.yml (INSTABIL?)
-v1.1: Fehlerbehebung bei nur /serverteam (Message zur Benutzung hinzugefügt)
-v1.2: onEnable und onDisable hinzugefügt (für Console)
-v1.3: Fehlerbehebung bei onEnable/onDisable (kein Prefix), onLoad hinzugefügt (f. Console)
+v1.1: Fehlerbehebung bei nur /serverteam (Message zur Benutzung hinzugefÃ¼gt)
+v1.2: onEnable und onDisable hinzugefÃ¼gt (fÃ¼r Console)
+v1.3: Fehlerbehebung bei onEnable/onDisable (kein Prefix), onLoad hinzugefÃ¼gt (f. Console)
 v1.4: Dearserys Name korrigiert, +Builder AnoukTimmermann, Chef-Builder erstellt (mit EinsDummeNuss)
-v1.5: optische Fehlerbehebung (Chef-Builder über Moderator)
-v1.6: Developer hinzugefügt (+M4nt0s), Namensupdate HammerGamerHD (Malthael1337)
-v1.7: Rangordnung geändert (Moderator tiefer)
-v1.8: Moderator doch wieder nach oben verschoben (über die Builder) xD
+v1.5: optische Fehlerbehebung (Chef-Builder Ã¼ber Moderator)
+v1.6: Developer hinzugefÃ¼gt (+M4nt0s), Namensupdate HammerGamerHD (Malthael1337)
+v1.7: Rangordnung geÃ¤ndert (Moderator tiefer)
+v1.8: Moderator doch wieder nach oben verschoben (Ã¼ber die Builder) xD
 v1.9: Dearserys Name korrigiert, bei Builder: darksideofforc weg, Schneekordel750 dazu
 v1.10: Bei Moderator: -Malthael, -Melone, also keine Mods mehr
 v1.10#: Version wird nicht angezeigt (also die 0 bei 10)
@@ -23,18 +23,20 @@ v1.15#: Fehlerkorrektur bei Help
 v1.16#: +Salmon als Builder, -Dear als Admin
 v1.17#: Autor-Name aktualisiert in Info und plugin.yml
 v1.18#: Bei Moderator: +HammerGamerHDD, +PremixMCPE
-v1.19#: Reformator-Rang hinzugefügt mit WeizenSkyGame
+v1.19#: Reformator-Rang hinzugefÃ¼gt mit WeizenSkyGame
 v1.20#: Aufstieg von Schneekordel750 von Builder zum Admin
 v1.21#: Allgemeines API-Update auf 3.0.0-ALPHA9
-v1.22#: Farbenänderung in Help
+v1.22#: FarbenÃ¤nderung in Help
 v1.23#: Allgemeines API-Update auf 3.0.0-ALPHA10
 v1.24#: Owner: -FlareNecros; -Reformator-Rang (WeizenSkyGame), Builder: -AnoukTimmermann
 v1.25#: Builder: +darksideofforc
 v1.26#: Moderator: PremixMCPE weg
 v1.27#: Moderator: +itsDkiller; neuer Rang YT-Moderator mit Minengeist
 v1.28#: Allgemeines API-Update auf 3.0.0-ALPHA11
-v1.29#: Benutzungshinweis geupdatet auf rote Farbe statt weiß
+v1.29#: Benutzungshinweis geupdatet auf rote Farbe statt weiÃŸ
 v1.30#: Moderator: -HammerGamerHDD, Rang YT-Moderator entfernt
 v1.31#: Developer: +HonorGamerHD, Moderator: +PremixMCPE
 v1.32#: Allgemeines API-Update auf 3.0.0-ALPHA12
+v1.33#: Developer: -M4nt0s
+v1.34#: Admin: -CuzImPERCY
 v
